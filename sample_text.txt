@@ -1,0 +1,4 @@
+Artificial Intelligence is the future of technology.
+Machine learning is a part of Artificial Intelligence.
+Deep learning is a part of Machine learning.
+Natural Language Processing helps machines understand human language.
